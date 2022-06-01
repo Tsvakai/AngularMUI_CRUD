@@ -1,0 +1,104 @@
+{
+  "productList": [
+    {
+      "productName": "Guava",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 40,
+      "comment": "This is new",
+      "date": "2022-02-28T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "My favorite",
+      "date": "2022-03-30T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Spinach",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 2,
+      "comment": "Nakirwa wega",
+      "date": "2022-04-03T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "iphone 13 pro",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 1200,
+      "comment": "Can't wait\n",
+      "date": "2022-05-31T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "MiFi",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 200,
+      "comment": "Get connected",
+      "date": "2022-02-28T22:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "lettuce ",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 1.5,
+      "comment": "Farm Fresh",
+      "date": "2022-02-13T22:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "lettuce",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 1.5,
+      "comment": "Farm fresh",
+      "date": "2022-02-13T22:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "G7 HP PROBOOK 470",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 834,
+      "comment": "Good Refurb",
+      "date": "2022-03-26T22:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Spanyanko",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 65,
+      "comment": "Christmas food",
+      "date": "2022-12-24T22:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "itel S30",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 98,
+      "comment": "Latest from Transsion",
+      "date": "2022-03-12T22:00:00.000Z",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
